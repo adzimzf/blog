@@ -1,0 +1,11 @@
+title: Tempat Berbagi Ilmu
+author: adzimzf
+email: adzimzulfahmy@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Berbagi lebih indah daripada rebutan
+
+twitter_username: macrod68
+github_username:  macrod68
+
+sass:
+    style: compressed
