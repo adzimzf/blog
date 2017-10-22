@@ -9,7 +9,6 @@ meta: "lambda"
 Lambda dan closures baru di tambahkan pada `PHP versi 5.3`. Keduanya memberikan beberapa fitur dan kemampuan baru untuk mengubah koding kita  menjadi lebih rapih. Namun gw rasa masih banyak programmer yang tidak sadar tentang Lambda dan Closure atau mungkin malahan bingung apa itu sebernarnya.
 
 Di postingan kali ini gw bakal mencoba menjelaskan tentang Lambda dan Closure  dan memberikan contoh potongan kode penggunanya.
-![enter image description here](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png)
 
 **Apa si sebenarnya Lambda itu?**
 -----------------------------
